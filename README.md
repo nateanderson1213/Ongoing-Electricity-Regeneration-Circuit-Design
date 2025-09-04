@@ -1,4 +1,4 @@
-# Smart Solar Power Bank with Prediction Capabilities
+# Smart Solar Power Bank 
 Work in Progress — Solar power electronics with machine learning
 
 ## Objectives
